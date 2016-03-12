@@ -9,4 +9,4 @@
     app:layout_behavior=
         "@string/appbar_scrolling_view_behavior"
     app:layout="@layout/fragment_navigation1" />
-<!-- From: file:/C:/work/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/layout/content_navigation1.xml -->
+<!-- From: file:/C:/work/gitHubProjects/android/ParseStarterProject/src/main/res/layout/content_navigation1.xml -->

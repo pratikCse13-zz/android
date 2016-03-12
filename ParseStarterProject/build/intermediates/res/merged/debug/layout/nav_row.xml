@@ -9,4 +9,4 @@
         android:padding="10dp"
         android:text="New Text"
         android:id="@+id/textView" />
-</LinearLayout><!-- From: file:/C:/work/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/layout/nav_row.xml -->
+</LinearLayout><!-- From: file:/C:/work/gitHubProjects/android/ParseStarterProject/src/main/res/layout/nav_row.xml -->

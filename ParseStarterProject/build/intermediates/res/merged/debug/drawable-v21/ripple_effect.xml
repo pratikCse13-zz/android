@@ -3,4 +3,4 @@
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?android:attr/colorControlHighlight" >
-    </ripple><!-- From: file:/C:/work/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/drawable-v21/ripple_effect.xml -->
+    </ripple><!-- From: file:/C:/work/gitHubProjects/android/ParseStarterProject/src/main/res/drawable-v21/ripple_effect.xml -->

@@ -25,4 +25,4 @@
         android:layout_centerHorizontal="true"
         android:onClick="logOut" />
 </RelativeLayout>
-<!-- From: file:/C:/work/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/layout/activity_main3.xml -->
+<!-- From: file:/C:/work/gitHubProjects/android/ParseStarterProject/src/main/res/layout/activity_main3.xml -->

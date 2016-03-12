@@ -76,4 +76,4 @@
         android:onClick="goToSignIn" />
 
 </RelativeLayout>
-<!-- From: file:/C:/work/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/layout/login_layout.xml -->
+<!-- From: file:/C:/work/gitHubProjects/android/ParseStarterProject/src/main/res/layout/login_layout.xml -->

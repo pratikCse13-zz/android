@@ -27,6 +27,7 @@ public class ActivityMain extends Activity {
     public void onCreate(Bundle savedInstanceState, PersistableBundle persistentState) {
 
         Log.i("created","created view");
+        Log.i("new ","new log");
         super.onCreate(savedInstanceState, persistentState);
         setContentView(R.layout.activity_activity_main);
 
