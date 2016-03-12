@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorHighlight" >
+    </ripple><!-- From: file:/C:/work/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/drawable/ripple_effect.xml -->
